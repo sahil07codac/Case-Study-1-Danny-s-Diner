@@ -27,6 +27,8 @@ ER DIAGRAM
 ![image](https://github.com/sahil07codac/Case-Study-1-Danny-s-Diner/assets/141804728/7842da75-9bf2-4463-8f64-0c8af87a9296)
 
 
+# SQL SKILL- CTE, JOIN, AGGREGATE FUNCTION , WINDOW FUNCTION
+
 
 # Case Study Questions
 Each of the following case study questions can be answered using a single SQL statement:
